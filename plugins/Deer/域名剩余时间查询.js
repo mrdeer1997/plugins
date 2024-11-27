@@ -1,6 +1,6 @@
 /**
  * @author windyday
- * @name 域名剩余时间
+ * @name 域名剩余时间查询
  * @team 红灯区
  * @version 1.0.3
  * @description 查询域名过期时间，方便续费。安装依赖:npm i whois dayjs  使用命令: 域名剩余时间 xxx.cn
