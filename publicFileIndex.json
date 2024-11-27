@@ -44,11 +44,11 @@
     "id": "BO3ysjx3SPcuefsCaJVxYv6z+pY=",
     "isChatPlugin": true
   },
-  "2WxbNDmLNE5D/bPICTA6D/bl2io=": {
+  "99T9cLW1eN9CuGltJKEVORLQibc=": {
     "type": "github",
     "name": "更换rabbitpro反代",
     "author": "小九九 t.me/gdot0",
-    "team": "小九九",
+    "team": "小九九/Deer",
     "version": "1.0",
     "description": "检查反代列表，更换可用的rabbitpro反代",
     "classification": [
@@ -63,7 +63,7 @@
     "isService": false,
     "isAuthentication": false,
     "isEncPlugin": false,
-    "id": "2WxbNDmLNE5D/bPICTA6D/bl2io=",
+    "id": "99T9cLW1eN9CuGltJKEVORLQibc=",
     "isChatPlugin": true
   }
 }
