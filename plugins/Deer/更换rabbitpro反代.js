@@ -1,5 +1,5 @@
 /**
- * @author 小九九 t.me/gdot0
+ * @author 更换rabbitpro反代
  * @name 更换rabbitpro反代
  * @origin 小九九
  * @team 小九九/Deer
