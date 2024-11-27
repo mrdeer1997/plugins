@@ -1,10 +1,10 @@
 {
   "annotation": "该文件由系统自动生成. 用于插件市场索引,请勿编辑该文件中的任何内容",
-  "ZdiMzNdbpM5r9deCNtPuwEYmGBo=": {
+  "PBwu1JFAatbXx5A089n0z0EO3NY=": {
     "type": "github",
     "name": "IKUN",
     "author": "seven",
-    "team": "xinz",
+    "team": "xinz/Deer",
     "version": "1.0.2",
     "description": "发送IKUN语录和表情包支持所有平台",
     "classification": [
@@ -19,7 +19,7 @@
     "isService": false,
     "isAuthentication": false,
     "isEncPlugin": false,
-    "id": "ZdiMzNdbpM5r9deCNtPuwEYmGBo=",
+    "id": "PBwu1JFAatbXx5A089n0z0EO3NY=",
     "isChatPlugin": true
   },
   "BO3ysjx3SPcuefsCaJVxYv6z+pY=": {
