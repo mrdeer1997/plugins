@@ -6,8 +6,11 @@
  * @description 适配 Bncr 3.0 的小米运动刷步插件
  * @rule ^刷新步数 (清空(账|帐)(号|户))?$
  * @rule ^刷新步数 ([1-9]\d*)?$
+ * @admin false
+ * @public false
  * @priority 9999
- * @disable false
+ * @classification ["工具"]
+ * @disable true
  */
 
 const axios = require('axios');
