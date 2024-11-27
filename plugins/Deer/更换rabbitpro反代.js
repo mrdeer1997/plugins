@@ -2,7 +2,7 @@
  * @author 小九九 t.me/gdot0
  * @name 更换rabbitpro反代
  * @origin 小九九
- * @team 小九九
+ * @team 小九九/Deer
  * @version 1.0
  * @rule ^crbfd$
  * @description 检查反代列表，更换可用的rabbitpro反代
