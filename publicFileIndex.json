@@ -22,11 +22,11 @@
     "id": "ZdiMzNdbpM5r9deCNtPuwEYmGBo=",
     "isChatPlugin": true
   },
-  "urczqfqXNrvru6XCDszdmeccU6s=": {
+  "BO3ysjx3SPcuefsCaJVxYv6z+pY=": {
     "type": "github",
     "name": "IP变化通知",
     "author": "IP变化通知",
-    "team": "小寒寒-小九九二改",
+    "team": "小寒寒/小九九二改/Deer",
     "version": "1.0.2",
     "description": "IP变化通知，变化后自动执行代理“更换白名单”命令，多线路的请勿使用，增加更换dynv6 ddns功能",
     "classification": [
@@ -41,7 +41,7 @@
     "isService": false,
     "isAuthentication": false,
     "isEncPlugin": false,
-    "id": "urczqfqXNrvru6XCDszdmeccU6s=",
+    "id": "BO3ysjx3SPcuefsCaJVxYv6z+pY=",
     "isChatPlugin": true
   },
   "2WxbNDmLNE5D/bPICTA6D/bl2io=": {
