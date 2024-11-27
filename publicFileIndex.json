@@ -1,3 +1,25 @@
 {
-  "annotation": "该文件由系统自动生成. 用于插件市场索引,请勿编辑该文件中的任何内容"
+  "annotation": "该文件由系统自动生成. 用于插件市场索引,请勿编辑该文件中的任何内容",
+  "ZdiMzNdbpM5r9deCNtPuwEYmGBo=": {
+    "type": "github",
+    "name": "IKUN",
+    "author": "seven",
+    "team": "xinz",
+    "version": "1.0.2",
+    "description": "发送IKUN语录和表情包支持所有平台",
+    "classification": [
+      "功能插件"
+    ],
+    "filename": "IKUN.js",
+    "fileDir": "/plugins/Deer/IKUN.js",
+    "systemVersionRange": "",
+    "isCron": false,
+    "isAdapter": false,
+    "isMod": false,
+    "isService": false,
+    "isAuthentication": false,
+    "isEncPlugin": false,
+    "id": "ZdiMzNdbpM5r9deCNtPuwEYmGBo=",
+    "isChatPlugin": true
+  }
 }
