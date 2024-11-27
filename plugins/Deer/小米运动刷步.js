@@ -1,7 +1,8 @@
 /**
- * @author Dswang
+ * @author Deer
  * @name 小米运动刷步
- * @team Dswang & SmartAI
+ * @team Deer
+ * @origin Deer
  * @version 1.0.2
  * @description 适配 Bncr 3.0 的小米运动刷步插件
  * @rule ^刷新步数 (清空(账|帐)(号|户))?$
