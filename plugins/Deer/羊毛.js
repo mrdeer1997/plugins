@@ -10,7 +10,7 @@
  * @public true
  * @disable false
  * @admin false
- * @cron 0 0 7 */7 * *
+ * @cron 0 0 7 *\/7 * *
  */
 
 const axios = require('axios');
