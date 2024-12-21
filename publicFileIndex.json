@@ -44,28 +44,6 @@
     "id": "t4wcibkvdb6vxQ02ifP2hkA8gWg=",
     "isChatPlugin": false
   },
-  "PBwu1JFAatbXx5A089n0z0EO3NY=": {
-    "type": "github",
-    "name": "IKUN",
-    "author": "seven",
-    "team": "xinz/Deer",
-    "version": "1.0.2",
-    "description": "发送IKUN语录和表情包支持所有平台",
-    "classification": [
-      "功能插件"
-    ],
-    "filename": "IKUN.js",
-    "fileDir": "/plugins/Deer/IKUN.js",
-    "systemVersionRange": "",
-    "isCron": false,
-    "isAdapter": false,
-    "isMod": false,
-    "isService": false,
-    "isAuthentication": false,
-    "isEncPlugin": false,
-    "id": "PBwu1JFAatbXx5A089n0z0EO3NY=",
-    "isChatPlugin": true
-  },
   "BO3ysjx3SPcuefsCaJVxYv6z+pY=": {
     "type": "github",
     "name": "IP变化通知",
